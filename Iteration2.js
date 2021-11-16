@@ -8,6 +8,7 @@ const avengers = [
   "Spiderman",
   "Captain M.",
 ];
+
 function findLongestWord(param) {
   let longestWord = param[0];
 
